@@ -1,14 +1,3 @@
 # turtle
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+This library is the underlying code that draws the turtle graphics in my blog post "[Lindenmayer Fractals](http://exupero.org/hazard/post/fractals/)". The code snippets in that post are interactive, and you're welcome to play with them.
